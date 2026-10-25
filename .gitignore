@@ -1,0 +1,5 @@
+.build/
+.tmp/
+.swiftpm-cache/
+SysPulse.app/
+.DS_Store
